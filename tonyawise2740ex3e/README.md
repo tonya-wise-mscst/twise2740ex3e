@@ -1,0 +1,1 @@
+COMC2740 Exercise 3E: Ch6 modify 3C: use static members.
